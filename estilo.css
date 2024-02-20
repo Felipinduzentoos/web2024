@@ -9,9 +9,12 @@
 #p9 {
     display: none;
 }
-
+#corpo {
+    text-align:left;
+    color:blueviolet;
+}
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(50, 37, 119);
     font-family: "Audiowide", sans-serif;
 }
 
